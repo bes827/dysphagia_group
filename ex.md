@@ -75,3 +75,53 @@ In a network meta-analysis, oral dopamine antagonists and tachkinin-1 antagonist
 
 <hr>
 <hr>
+<hr>
+**Lifestyle factors for the prevention of inflammatory bowel disease.**
+
+Across six US and European cohorts, a substantial burden of inflammatory bowel diseases risk may be preventable through lifestyle modification.
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/36591609) [Journal](https://doi.org/10.1136/gutjnl-2022-328174) [ReadQx](https://www.qxmd.com/r/36591609)
+
+**1. What is the focus of the study described in the text?**
+
+-   The study focuses on the contribution of modifiable lifestyle and dietary factors to the risk of Crohn's disease (CD) and ulcerative colitis (UC).
+
+**2. How many cases of CD and UC could have been prevented by adhering to low-risk modifiable lifestyle factors in the US cohorts?**
+
+-   43% of CD cases and 44% of UC cases could have been prevented by adhering to low-risk modifiable lifestyle factors in the US cohorts.
+
+**3. How many CD and UC cases could have been prevented by adherence to American healthy lifestyle recommendations in the US cohorts?**
+
+-   61% of CD cases and 42% of UC cases could have been prevented by adherence to American healthy lifestyle recommendations in the US cohorts.
+
+**4. What proportion of CD and UC cases could be attributed to family history in the primary cohorts?**
+
+-   Family history accounted for a modest population-attributable risk (PAR) of 12% for CD and 9% for UC in the primary cohorts.
+
+**5. What proportion of IBD cases has been attributed to lifestyle factors in previous studies?**
+
+-   In an Italian cohort, smoking, oral contraceptive use and lack of breastfeeding accounted for roughly 30% of the attributable risk for IBD, while in a study by Brant et al, current tobacco use conferred a 47% attributable risk for CD.
+
+**6. How do the estimates of the contribution of modifiable lifestyle and dietary factors to the risk of CD and UC in this study compare to those published for other immune-mediated diseases?**
+
+-   The estimates of the contribution of modifiable lifestyle and dietary factors to the risk of CD and UC in this study are similar to those published for other immune-mediated diseases such as rheumatoid arthritis (RA) and psoriasis.
+
+**7. What is the key assumption of the findings in this study?**
+
+-   The key assumption of the findings in this study is that the relationship between lifestyle factors and IBD development is causal.
+
+**8. What lines of evidence support the role of environmental and lifestyle factors in the development of IBD?**
+
+-   Lines of evidence supporting the role of environmental and lifestyle factors in the development of IBD include the low contribution of genetic factors to the variance of IBD, the high incidence of IBD in industrialised societies and the sharp rise of IBD in developing countries, the increased risk of IBD in second-generation immigrants, and the link between the dietary and lifestyle factors considered in the study and systemic inflammation, microbial dysbiosis and gut permeability.
+
+**9. What strategies have been applied in other immune-mediated diseases for primary prevention?**
+
+-   Strategies for primary prevention in other immune-mediated diseases have included dietary and lifestyle modifications, as well as vaccination and pharmacological therapies.
+
+**10. What are the implications of the findings of this study for IBD prevention?**
+
+-   The findings of this study suggest that adherence to an overall healthy lifestyle may prevent a modest proportion of cases of CD and UC, and that current guidelines for healthy living, which are primarily recommended to reduce cardiovascular disease (CVD) risk, may have additional benefits for the prevention of other immune-mediated diseases such as IBD.
+
+<hr>
+
+
