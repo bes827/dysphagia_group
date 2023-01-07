@@ -74,8 +74,10 @@ In a network meta-analysis, oral dopamine antagonists and tachkinin-1 antagonist
 
 
 <hr>
-<hr>
-<hr>
+
+
+
+
 **Lifestyle factors for the prevention of inflammatory bowel disease.**
 
 Across six US and European cohorts, a substantial burden of inflammatory bowel diseases risk may be preventable through lifestyle modification.
