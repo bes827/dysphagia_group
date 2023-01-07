@@ -1,4 +1,61 @@
 
+<hr> 
+
+**Beta-blockers in the era of precision medicine in patients with cirrhosis.**
+
+The clinical risk-to-benefit ratio appears to deteriorate in advanced decompensated stages and the risk of harm is high in patients with refractory ascites, low blood pressure and renal impairment, which clinically define closure of the therapeutic window. We also critically review non-invasive surrogates and biomarkers for predicting the haemodynamic response to NSBBs and confirm that the absence of reliable non-invasive methods is one of the main challenges facing the field.
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/36529293) [Journal](https://doi.org/10.1016/j.jhep.2022.12.005) [ReadQx](https://www.qxmd.com/r/36529293)
+
+**1. What is the goal of therapy in portal hypertension?**
+
+-   The goal of therapy in portal hypertension is to slow down the cirrhosis course, reduce portal hypertension-related events (such as ascites) other than bleeding, and improve survival.
+
+**2. What is the optimal scenario for personalised care in portal hypertension?**
+
+-   The optimal scenario for personalised care in portal hypertension is to have reliable non-invasive surrogates or biomarkers that can predict the haemodynamic response to non-selective beta blockers (NSBBs) in individual patients.
+
+**3. What are the current indications for NSBBs in cirrhosis?**
+
+-   The current indications for NSBBs in cirrhosis include prevention of first decompensation in compensated patients and prevention of first or recurrent variceal bleeding in compensated and decompensated (Child-Pugh B/C) patients.
+
+**4. How does the selection of the best treatment for the management of portal hypertension depend on the indication, cirrhosis stage, and patient profile and preference?**
+
+-   The selection of the best treatment for the management of portal hypertension depends on the indication, cirrhosis stage, and patient profile and preference. For example, NSBBs and NSBBs plus endoscopic band ligation (EBL) are the standard of care to prevent first and recurrent variceal bleeding, respectively, and carvedilol is recommended as the NSBB of choice to prevent first or recurrent bleeding in patients without moderate-to-severe ascites, while propranolol is a safer option in patients with moderate-to-severe ascites. In the prevention of first decompensation in patients with compensated cirrhosis and small varices, carvedilol has been shown to have a greater portal pressure-lowering effect than propranolol at 1 year, which is associated with a lower likelihood of decompensation.
+
+**5. How does the presence of ascites impact the choice of NSBB for the management of portal hypertension?**
+
+-   The presence of ascites may impact the choice of NSBB for the management of portal hypertension. NSBBs are recommended for the prevention of first or recurrent variceal bleeding in patients with ascites, although propranolol is a safer option in patients with moderate-to-severe ascites due to its more gradual titration.
+
+**6. How does carvedilol compare to propranolol in terms of efficacy and safety in the prevention of first variceal bleeding?**
+
+-   Carvedilol has been shown to have similar or superior efficacy to standard therapy (EBL or propranolol) in the prevention of first variceal bleeding, and it is also easier to titrate with a similar safety profile.
+
+**7. How does the use of NSBBs impact survival in decompensated patients with ascites?**
+
+-   The use of NSBBs improves survival in decompensated patients with ascites, although the survival benefit is hampered if carvedilol is not tolerated or contraindicated.
+
+**8. How does the presence of small varices affect the recommendation for NSBBs in patients with compensated cirrhosis?**
+
+-   The presence of small varices is a factor that may influence the recommendation for NSBBs in patients with compensated cirrhosis. NSBBs are recommended for prevention of first decompensation in patients with compensated cirrhosis and small varices, while their use in patients with compensated cirrhosis and CSPH independently of the presence of small varices is controversial.
+
+**9. How does the presence of large esophageal varices affect the recommendation for NSBBs in patients with cirrhosis?**
+
+-   The presence of large esophageal varices is a factor that may influence the recommendation for NSBBs in patients with cirrhosis. NSBBs are recommended for the prevention of first variceal bleeding in patients with cirrhosis and large esophageal varices, although the optimal timing for starting NSBBs in this setting is not well established.
+
+**10. How does the presence of portal vein thrombosis impact the recommendation for NSBBs in patients with cirrhosis?**
+
+-   The presence of portal vein thrombosis may impact the recommendation for NSBBs in patients with cirrhosis. NSBBs are not generally recommended for the prevention of first variceal bleeding in patients with cirrhosis and portal vein thrombosis, although the use of NSBBs in combination with anticoagulation may be considered in certain cases.
+
+ 
+
+<hr>
+
+
+
+
+
+<br>
 
 **Lifestyle factors for the prevention of inflammatory bowel disease   .**
 
