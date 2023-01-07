@@ -1,3 +1,6 @@
+[**Meta-analysis: Use of proton pump inhibitors and risk of gastric cancer in patients requiring gastric acid suppression.**](https://onlinelibrary.wiley.com/doi/10.1111/apt.17360)
+
+
 1.  **What is the purpose of this systematic review with meta-analysis?** The purpose of this systematic review with meta-analysis was to investigate the association between proton pump inhibitors (PPIs) and the risk of gastric cancer.
     
 2.  **What were the main findings of this study?** The main findings of this study were that there was no statistical evidence of an association between PPIs and gastric cancer when considering studies that addressed confounding in a comprehensive manner. The certainty in the summary effect estimate was low.
