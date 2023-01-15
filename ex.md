@@ -3,6 +3,124 @@
 
 
 
+<hr>
+**The global epidemiology of nonalcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH): a systematic review.**
+
+NAFLD global prevalence is 30% and increasing which requires urgent and comprehensive strategies to raise awareness and address al aspects of NAFLD on local, regional, and global levels.
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/36626630) [Journal](https://doi.org/10.1097/hep.0000000000000004) [ReadQx](https://www.qxmd.com/r/36626630)
+
+**1. What is the overall global prevalence of NAFLD?**
+
+-   The overall global prevalence of NAFLD is 30.1% across the entire study period (1990-2019).
+
+**2. Has the prevalence of NAFLD increased over time?**
+
+-   Yes, the trend analysis showed NAFLD prevalence has increased from 25.3% (1990-2006) to 38.2% (2016-2019).
+
+**3. What are the regional NAFLD prevalence rates?**
+
+-   The highest NAFLD prevalence rate was observed in Latin America (44.4%), followed by North Africa and Middle East (MENA) (36.5%), South Asia (33.8%), South-East Asia (33.1%), North America (31.2%), East Asia (29.7%), Asia Pacific (28.0%), and Western Europe (25.1%).
+
+**4. How do these findings differ from another meta-analysis?**
+
+-   The findings differ from another meta-analysis which provided prevalence data only for four regions [Africa 56.8%, North America 47.8%, Europe 32.6% and Asia 31.6%]. The differences could be explained by the methodologic differences and lack of control for important biases.
+
+**5. How do age and obesity affect the NAFLD prevalence?**
+
+-   Age and obesity are highly associated with NAFLD prevalence.
+
+**6. How was the potential for over-coverage bias addressed in the meta-analysis?**
+
+-   The potential for over-coverage bias was addressed by making adjustments using the country-specific population size to estimate population size-adjusted global prevalence and strictly applying the exclusion criteria.
+
+**7. How did the researchers estimate the incidence and mortality rates for NAFLD?**
+
+-   The researchers estimated the incidence and mortality rates for NAFLD by determining the global and regional prevalence rates for NAFLD, and then performing adjustments to overcome biases that are inherent in the administrative and annual medical check-up datasets.
+
+**8. What is the pooled mortality rate for NAFLD?**
+
+-   The pooled mortality rate for NAFLD was 12.60 per 1,000 PY for all-cause mortality, 4.20 per 1,000 PY for cardiac-specific mortality, 2.83 per 1,000 PY for extra-hepatic cancer-specific mortality, and 0.92 per 1,000 PY for liver-specific mortality.
+
+**9. How did the researchers adjust for selection bias in the study?**
+
+-   The researchers adjusted for selection bias by using population all-cause mortality data and then creating proportionate cause-specific death rates.
+
+**10. How does the study align with the Global Burden of Disease (GBD) regional classification system?**
+
+-   The study aligns with the GBD regional classification system by providing more detail to the regional prevalence rates for NAFLD.
+
+**11. Is there a significant increase in the incidence of NAFLD over time?**
+
+-   Yes, the estimates suggest a 58.0% increase in the incidence of NAFLD from 1994-2006 to 2010-2014.
+
+**12. Does the study show a significant increase in the incidence of NAFLD in specific age groups?**
+
+-   The study shows numerical increases in age groups of <40 and >50 but none of these differences were statistically significant.
+
+**13. How were the pooled mortality rates for NAFLD calculated?**
+
+-   The pooled mortality rates for NAFLD were calculated by taking into account the all-cause mortality, cardiac-specific mortality, extra-hepatic cancer-specific mortality, and liver-specific mortality.
+
+**14. What is the potential impact of selection bias on the mortality rates for NAFLD?**
+
+-   Selection bias could potentially lead to a higher mortality rate for NAFLD subjects with a liver biopsy, as they may suffer from more severe disease.
+
+**15. How was the potential for bias in administrative and annual medical check-up datasets addressed in the study?**
+
+-   The potential for bias in administrative and annual medical check-up datasets was addressed by performing adjustments and using population all-cause mortality data to create proportionate cause-specific death rates.
+
+
+<hr>
+
+**Validation of Pharyngeal Acid Reflux Episodes Using Hypopharyngeal Multichannel Intraluminal Impedance-pH.**
+
+Our preliminary data showed that 80.0% (71.0-87.0%) of the proposed candidate PAR episodes were HMII-pH-proven PAR episodes, among which the interobserver reproducibility was good.
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/36606436) [Journal](https://doi.org/10.5056/jnm22047) [ReadQx](https://www.qxmd.com/r/36606436)
+
+**1. What was the hypothesis of the study?**
+
+-   The hypothesis was that the HMII-pH technique would be capable of diagnosing PAR episodes with good interobserver reproducibility.
+
+**2. What criteria were used to identify candidate PAR episodes?**
+
+-   The criteria used were a rapid pharyngeal pH decrease of at least 2 units, reaching a nadir pH of less than 5 within 30 seconds during esophageal acidification.
+
+**3. What percentage of candidate PAR episodes were HMII-pH-proven PAR episodes?**
+
+-   80.0% (71.0-87.0%) of candidate PAR episodes were HMII-pH-proven PAR episodes.
+
+**4. Was there good interobserver reproducibility of the HMII-pH technique?**
+
+-   Yes, there was good interobserver reproducibility of the HMII-pH technique based on the proposed criteria.
+
+**5. Were equipment-related or swallow-induced episodes found to be HMII-pH-proven PAR episodes?**
+
+-   No, none of the equipment-related or swallow-induced episodes were found to be HMII-pH-proven PAR episodes.
+
+**6. How do the study's findings of PAR episodes in healthy controls compare to previous studies?**
+
+-   The study's findings of rare PAR episodes in healthy controls are in line with those reported by Hoppo et al but were lower than that by Zerbib et al.
+
+**7. What factors contribute to inconsistent results among studies of PAR episodes?**
+
+-   Factors contributing to inconsistent results among studies include pharyngeal pH sensor locations, number of impedance sensors in the pharynx, definition of pharyngeal reflux (acid or nonacid, gaseous, or liquid), artifacts, and poor interobserver reproducibility.
+
+**8. What is the feasibility of HMII-pH tracing in differentiating refluxes from swallows?**
+
+-   The high concordance of 95.4% (83/87) for interpreting retrograde pharyngeal impedance changes between observers in the study suggests the feasibility of HMII-pH tracing in differentiating refluxes from swallows.
+
+**9. How could artificial intelligence be applied to facilitate the interpretation of PAR episodes?**
+
+-   Artificial intelligence could be applied to facilitate the interpretation of PAR episodes based on the findings of the current study.
+
+**10. What limitations does the study have?**
+
+-   The study has limitations such as not considering pharyngeal refluxate with pH above 5, esophageal refluxate with pH above 4, and pure gas refluxes, which may have underestimated pharyngeal reflux episodes, small sample size of the study resulting in lower precision and not considering pure gas refluxes.
+<hr>
+
+
 
 <details>
   <summary>
