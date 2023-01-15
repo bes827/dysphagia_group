@@ -5,7 +5,9 @@
 
 
 <details>
-  <summary>**Beta-blockers in the era of precision medicine in patients with cirrhosis.**
+  <summary>
+    
+    **Beta-blockers in the era of precision medicine in patients with cirrhosis.**
 
 The clinical risk-to-benefit ratio appears to deteriorate in advanced decompensated stages and the risk of harm is high in patients with refractory ascites, low blood pressure and renal impairment, which clinically define closure of the therapeutic window. We also critically review non-invasive surrogates and biomarkers for predicting the haemodynamic response to NSBBs and confirm that the absence of reliable non-invasive methods is one of the main challenges facing the field.
 
