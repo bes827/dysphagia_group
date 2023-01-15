@@ -4,7 +4,9 @@
 
 
 <hr>
+
 **The global epidemiology of nonalcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH): a systematic review.**
+
 
 NAFLD global prevalence is 30% and increasing which requires urgent and comprehensive strategies to raise awareness and address al aspects of NAFLD on local, regional, and global levels.
 
